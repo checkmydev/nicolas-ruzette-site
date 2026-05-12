@@ -17,10 +17,10 @@
   },
   "nicolas": {
     "eyebrow": "About", "title": "Clinical psychologist and therapist.",
-    "p1": "I trained at UCLouvain and have worked for over ten years at the intersection of neuropsychology, systemic therapy and human diversity. What has always interested me is not so much diagnosis as functioning — the way each person inhabits their body, organises their emotions, builds their relationships.",
-    "p2": "After practising in Belgium, I moved to Barcelona. I work with individuals and couples from very different backgrounds: expatriates, LGBTQ+ people, neurodivergent profiles, people navigating deep existential questions.",
-    "p3": "My approach is integrative. I draw on emotion-focused therapy, interpersonal neurobiology, NVC and somatic work — not as techniques to apply, but as languages for understanding what is really happening.",
-    "p4": "What I aim to offer is a space where there is no need to perform, to explain, or to justify. A space where something can finally settle.",
+    "p1": "A clinical psychologist trained at UCLouvain, I have lived in Barcelona since 2009 and have run an independent practice since 2013. From 2014 to 2018 I worked at the Hestia International Psychotherapy Centre. What has always interested me is not so much diagnosis as functioning — the way each person inhabits their body, organises their emotions, builds their relationships.",
+    "p2": "I work with individuals and couples from very different backgrounds: expatriates, LGBTQ+ people, polyamorous couples, neurodivergent profiles, people navigating deep existential questions. I bring particular attention to intercultural realities and diverse relationship configurations.",
+    "p3": "My approach is integrative. I draw on Emotion-Focused Therapy, interpersonal neurobiology, NVC, systemic approaches and drama therapy — not as techniques to apply, but as languages for understanding what is really happening. My work is inspired by Diana Fosha, Stephen Porges, Leslie Greenberg, Jaakko Seikkula, Boris Cyrulnik and Mony Elkaïm.",
+    "p4": "What I aim to offer is a space where there is no need to perform, to explain, or to justify. A space where something can finally settle. To be happy, in my view, is to know how to be in relationship — with ourselves, with others, with our environment.",
     "langs_title": "Languages", "badge_ucl": "UCLouvain", "badge_ordre": "Belgian Psychological Commission", "badge_years": "10+ years experience"
   },
   "approche": {
@@ -90,7 +90,10 @@
   },
   "reserver": {
     "eyebrow": "Booking", "title": "Book a session.",
-    "lead": "Choose a time that suits you. The first session is a meeting — no commitment required.",
+    "lead": "The first session is a meeting — no commitment required. Write to me to find a time that suits you.",
+    "contact_intro": "Write to me directly to arrange a first appointment. I usually respond within 24 hours.",
+    "whatsapp_cta": "Message on WhatsApp",
+    "email_label": "Email", "skype_label": "Skype",
     "address_label": "Practice", "address": "Plaza Urquinaona 10, 2-1 · Barcelona 08010",
     "phone_label": "Phone", "phone": "+34 634 910 541",
     "hours_label": "Hours", "hours": "Monday – Friday · 9am – 9pm",

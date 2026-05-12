@@ -3,8 +3,15 @@
   <nav class="nav" role="navigation"><div class="nav__inner"><a href="index.html" class="nav__logo" data-i18n="nav.logo">Nicolas Ruzette</a><ul class="nav__links"><li><a href="index.html" data-i18n="nav.home">accueil</a></li><li><a href="nicolas.html" data-i18n="nav.nicolas">nicolas</a></li><li><a href="approche.html" data-i18n="nav.approche">approche</a></li><li><a href="livres.html" data-i18n="nav.livres">livres</a></li><li><a href="reserver.html" data-i18n="nav.reserver">réserver</a></li><li class="lang-switcher"><button class="lang-btn" data-lang="fr">fr</button><button class="lang-btn" data-lang="en">en</button><button class="lang-btn" data-lang="es">es</button></li></ul><button class="nav__hamburger" id="hamburger" aria-expanded="false" aria-label="Menu"><span></span><span></span><span></span></button></div></nav>
   <div class="nav__overlay" id="nav-overlay" role="dialog" aria-modal="true"><button class="nav__overlay-close" id="nav-overlay-close" aria-label="Fermer">×</button><a href="index.html" data-i18n="nav.home">accueil</a><a href="nicolas.html" data-i18n="nav.nicolas">nicolas</a><a href="approche.html" data-i18n="nav.approche">approche</a><a href="livres.html" data-i18n="nav.livres">livres</a><a href="reserver.html" data-i18n="nav.reserver">réserver</a><div class="lang-switcher"><button class="lang-btn" data-lang="fr">fr</button><button class="lang-btn" data-lang="en">en</button><button class="lang-btn" data-lang="es">es</button></div></div>
   <main>
-    <div class="page-header"><div class="container"><p class="page-header__eyebrow" data-i18n="reserver.eyebrow">Réservation</p><h1 class="page-header__title" data-i18n="reserver.title">Prendre rendez-vous.</h1><p class="page-header__lead" data-i18n="reserver.lead">Choisissez un moment qui vous convient. La première séance est une rencontre — sans engagement.</p></div></div>
-    <section class="section"><div class="container--wide"><div id="cal-booking" style="min-height:600px;"></div></div></section>
+    <div class="page-header"><div class="container"><p class="page-header__eyebrow" data-i18n="reserver.eyebrow">Réservation</p><h1 class="page-header__title" data-i18n="reserver.title">Prendre rendez-vous.</h1><p class="page-header__lead" data-i18n="reserver.lead">La première séance est une rencontre — sans engagement. Écrivez-moi pour trouver un moment qui vous convient.</p></div></div>
+    <section class="section"><div class="container"><div class="reveal" style="max-width:680px;">
+      <p style="font-family:var(--font-display);font-size:1.25rem;line-height:1.7;margin-bottom:3rem;" data-i18n="reserver.contact_intro">Écrivez-moi directement pour convenir d'un premier rendez-vous. Je réponds généralement dans les 24 heures.</p>
+      <a href="https://wa.me/34634910541" style="display:inline-flex;align-items:center;gap:0.75rem;background:var(--color-ink);color:var(--color-bg);padding:0.9rem 2rem;text-decoration:none;font-family:var(--font-body);font-size:0.8rem;letter-spacing:0.1em;text-transform:uppercase;"><span data-i18n="reserver.whatsapp_cta">Écrire sur WhatsApp</span><span aria-hidden="true"> →</span></a>
+      <div style="margin-top:2.5rem;display:grid;grid-template-columns:auto auto;gap:1.25rem 3rem;justify-content:start;">
+        <div><p style="font-size:0.75rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--color-muted);margin-bottom:0.4rem;" data-i18n="reserver.email_label">Email</p><a href="mailto:info@psychologue-bcn.com" style="color:var(--color-ink);text-decoration:none;font-family:var(--font-display);">info@psychologue-bcn.com</a></div>
+        <div><p style="font-size:0.75rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--color-muted);margin-bottom:0.4rem;" data-i18n="reserver.skype_label">Skype</p><p style="font-family:var(--font-display);">nicolas.ruzette</p></div>
+      </div>
+    </div></div></section>
     <section class="section section--surface"><div class="container"><div class="grid-3 reveal">
       <div><p style="font-size:0.75rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--color-muted);margin-bottom:0.75rem;" data-i18n="reserver.address_label">Cabinet</p><p data-i18n="reserver.address">Plaza Urquinaona 10, 2-1 · Barcelona 08010</p></div>
       <div><p style="font-size:0.75rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--color-muted);margin-bottom:0.75rem;" data-i18n="reserver.hours_label">Horaires</p><p data-i18n="reserver.hours">Lundi – Vendredi · 9h – 21h</p></div>
@@ -13,13 +20,4 @@
   </main>
   <footer class="footer"><div class="footer__inner"><span class="footer__name">Nicolas Ruzette</span><ul class="footer__links"><li><a href="nicolas.html" data-i18n="footer.links.nicolas">nicolas</a></li><li><a href="approche.html" data-i18n="footer.links.approche">approche</a></li><li><a href="livres.html" data-i18n="footer.links.livres">livres</a></li><li><a href="reserver.html" data-i18n="footer.links.reserver">réserver</a></li></ul><span class="footer__location" data-i18n="footer.location">Barcelone · Plaza Urquinaona 10</span></div></footer>
   <script src="js/i18n.js"></script><script src="js/nav.js"></script><script src="js/animations.js"></script>
-  <script>
-    (function(C,A,L){let p=function(a,ar){a.q.push(ar)};let d=C.document;C.Cal=C.Cal||function(){let cal=C.Cal;let ar=arguments;if(!cal.loaded){cal.ns={};cal.q=cal.q||[];d.head.appendChild(d.createElement("script")).src=A;cal.loaded=true}if(ar[0]===L){const api=function(){p(api,arguments)};const namespace=ar[1];api.q=api.q||[];typeof namespace==="string"?cal.ns[namespace]=api:cal.q.push(ar);return}p(cal,ar)};})(window,"https://app.cal.com/embed/embed.js","init");
-    Cal("init", { origin: "https://cal.com" });
-    Cal("inline", {
-      elementOrSelector: "#cal-booking",
-      calLink: "YOUR_CAL_USERNAME",
-      config: { theme: "light", styles: { branding: { brandColor: "#9B8B78" } } }
-    });
-  </script>
 </body></html>

@@ -17,10 +17,10 @@
   },
   "nicolas": {
     "eyebrow": "À propos", "title": "Psychologue clinicien et thérapeute.",
-    "p1": "Diplômé de l'UCLouvain, je travaille depuis plus de dix ans à l'intersection de la neuropsychologie, de la thérapie systémique et de la diversité humaine. Ce qui m'a toujours intéressé, c'est moins le diagnostic que le fonctionnement — la façon dont chaque personne habite son corps, organise ses émotions, construit ses relations.",
-    "p2": "J'ai exercé en Belgique, puis me suis installé à Barcelone. J'accompagne des individus et des couples issus de milieux très divers : expatriés, personnes LGBTQ+, profils neurodivergents, personnes traversant des questionnements existentiels profonds.",
-    "p3": "Mon approche est intégrative. Je m'appuie sur la thérapie centrée sur les émotions, la neurobiologie interpersonnelle, la CNV et le travail somatique — non comme des méthodes à appliquer, mais comme des langages pour comprendre ce qui se passe vraiment.",
-    "p4": "Ce que je cherche à offrir, c'est un espace où il n'est pas nécessaire de performer, d'expliquer ou de se justifier. Un espace où quelque chose peut enfin se déposer.",
+    "p1": "Psychologue clinicien diplômé de l'UCLouvain, je vis à Barcelone depuis 2009 et j'exerce de manière indépendante depuis 2013. De 2014 à 2018, j'ai travaillé au Centre Hestia International de Psychothérapie. Ce qui m'a toujours intéressé, c'est moins le diagnostic que le fonctionnement — la façon dont chaque personne habite son corps, organise ses émotions, construit ses relations.",
+    "p2": "J'accompagne des individus et des couples issus de milieux très divers : expatriés, personnes LGBTQ+, couples polyamoureux, profils neurodivergents, personnes traversant des questionnements existentiels profonds. Je travaille avec une attention particulière aux réalités interculturelles et à la diversité des configurations affectives.",
+    "p3": "Mon approche est intégrative. Je m'appuie sur la Thérapie Centrée sur les Émotions, la neurobiologie interpersonnelle, la CNV, l'approche systémique et la thérapie dramatique — non comme des méthodes à appliquer, mais comme des langages pour comprendre ce qui se passe vraiment. Mes travaux s'inspirent de Diana Fosha, Stephen Porges, Leslie Greenberg, Jaakko Seikkula, Boris Cyrulnik et Mony Elkaïm.",
+    "p4": "Ce que je cherche à offrir, c'est un espace où il n'est pas nécessaire de performer, d'expliquer ou de se justifier. Un espace où quelque chose peut enfin se déposer. Être heureux, selon moi, c'est savoir être en relation avec nous-même, les autres, notre environnement.",
     "langs_title": "Langues de consultation",
     "badge_ucl": "UCLouvain", "badge_ordre": "Ordre des Psychologues de Belgique", "badge_years": "10+ ans d'expérience"
   },
@@ -91,7 +91,10 @@
   },
   "reserver": {
     "eyebrow": "Réservation", "title": "Prendre rendez-vous.",
-    "lead": "Choisissez un moment qui vous convient. La première séance est une rencontre — sans engagement.",
+    "lead": "La première séance est une rencontre — sans engagement. Écrivez-moi pour trouver un moment qui vous convient.",
+    "contact_intro": "Écrivez-moi directement pour convenir d'un premier rendez-vous. Je réponds généralement dans les 24 heures.",
+    "whatsapp_cta": "Écrire sur WhatsApp",
+    "email_label": "Email", "skype_label": "Skype",
     "address_label": "Cabinet", "address": "Plaza Urquinaona 10, 2-1 · Barcelona 08010",
     "phone_label": "Téléphone", "phone": "+34 634 910 541",
     "hours_label": "Horaires", "hours": "Lundi – Vendredi · 9h – 21h",

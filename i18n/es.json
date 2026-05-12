@@ -17,10 +17,10 @@
   },
   "nicolas": {
     "eyebrow": "Sobre mí", "title": "Psicólogo clínico y terapeuta.",
-    "p1": "Formado en la UCLouvain, llevo más de diez años trabajando en la intersección de la neuropsicología, la terapia sistémica y la diversidad humana. Lo que siempre me ha interesado no es tanto el diagnóstico como el funcionamiento — la manera en que cada persona habita su cuerpo, organiza sus emociones, construye sus relaciones.",
-    "p2": "Ejercí en Bélgica y luego me instalé en Barcelona. Acompaño a personas y parejas de entornos muy diversos: expatriados, personas LGBTQ+, perfiles neurodivergentes, personas atravesando cuestionamientos existenciales profundos.",
-    "p3": "Mi enfoque es integrativo. Me apoyo en la terapia centrada en las emociones, la neurobiología interpersonal, la CNV y el trabajo somático — no como métodos a aplicar, sino como lenguajes para comprender lo que realmente ocurre.",
-    "p4": "Lo que busco ofrecer es un espacio donde no es necesario actuar, explicarse ni justificarse. Un espacio donde algo puede finalmente depositarse.",
+    "p1": "Psicólogo clínico formado en la UCLouvain, vivo en Barcelona desde 2009 y ejerzo de forma independiente desde 2013. De 2014 a 2018 trabajé en el Centro Hestia de Psicoterapia Internacional. Lo que siempre me ha interesado no es tanto el diagnóstico como el funcionamiento — la manera en que cada persona habita su cuerpo, organiza sus emociones, construye sus relaciones.",
+    "p2": "Acompaño a personas y parejas de entornos muy diversos: expatriados, personas LGBTQ+, parejas poliamorosas, perfiles neurodivergentes, personas atravesando cuestionamientos existenciales profundos. Trabajo con especial atención a las realidades interculturales y a la diversidad de configuraciones afectivas.",
+    "p3": "Mi enfoque es integrativo. Me apoyo en la Terapia Centrada en las Emociones, la neurobiología interpersonal, la CNV, el enfoque sistémico y la terapia dramática — no como métodos a aplicar, sino como lenguajes para comprender lo que realmente ocurre. Mi trabajo se inspira en Diana Fosha, Stephen Porges, Leslie Greenberg, Jaakko Seikkula, Boris Cyrulnik y Mony Elkaïm.",
+    "p4": "Lo que busco ofrecer es un espacio donde no es necesario actuar, explicarse ni justificarse. Un espacio donde algo puede finalmente depositarse. Ser feliz, para mí, es saber estar en relación — con nosotros mismos, con los demás, con nuestro entorno.",
     "langs_title": "Idiomas de consulta", "badge_ucl": "UCLouvain", "badge_ordre": "Comisión de Psicólogos de Bélgica", "badge_years": "Más de 10 años de experiencia"
   },
   "approche": {
@@ -90,7 +90,10 @@
   },
   "reserver": {
     "eyebrow": "Reserva", "title": "Reservar una cita.",
-    "lead": "Elige el momento que más te convenga. La primera sesión es un encuentro — sin compromiso.",
+    "lead": "La primera sesión es un encuentro — sin compromiso. Escríbeme para encontrar un momento que te convenga.",
+    "contact_intro": "Escríbeme directamente para concertar una primera cita. Suelo responder en menos de 24 horas.",
+    "whatsapp_cta": "Escribir por WhatsApp",
+    "email_label": "Email", "skype_label": "Skype",
     "address_label": "Consulta", "address": "Plaza Urquinaona 10, 2-1 · Barcelona 08010",
     "phone_label": "Teléfono", "phone": "+34 634 910 541",
     "hours_label": "Horario", "hours": "Lunes – Viernes · 9h – 21h",
