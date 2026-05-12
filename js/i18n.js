@@ -4,7 +4,7 @@ let _t = {};
 async function loadLang(lang) {
   if (!SUPPORTED_LANGS.includes(lang)) lang = 'fr';
   try {
-    const res = await fetch(`/i18n/${lang}.json`);
+    const res = await fetch(`i18n/${lang}.json`);
     _t = await res.json();
   } catch (e) {
     console.error(`Failed to load i18n/${lang}.json`, e);
